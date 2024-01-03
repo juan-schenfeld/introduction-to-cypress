@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+
+# Cypress configuration file
+cypress.env.json
+
+# Log files
+*.log
+
+# Dependency directories
+/jest-cache/
+/jest-coverage/
+
+# npm package locks
+package-lock.json
+yarn.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
